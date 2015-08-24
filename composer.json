@@ -8,7 +8,7 @@
         "source": "https://github.com/himiklab/yii2-sortable-grid-view-widget",
         "issues": "https://github.com/himiklab/yii2-sortable-grid-view-widget/issues"
     },
-    {
+    "repositories":[{
       "type": "package",
         "package": {
             "name": "yiisoft/yii2",
@@ -22,7 +22,7 @@
               "classmap": [""]
             }
         }
-    }    
+    }]
     "authors": [
         {
             "name": "HimikLab",
